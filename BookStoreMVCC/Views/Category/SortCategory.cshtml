@@ -1,0 +1,74 @@
+﻿@model List<Book>
+
+<h1>@ViewBag.CategoryName</h1>
+
+@{
+	int counter = 0;
+}
+
+
+<div class="container">
+	<div class="row">
+		@foreach(var item in Model)
+		{
+			@if(counter == 0)
+			{
+
+				@:<div class="row">
+					<div class="col-6">
+						<div class="col-4">
+							<img class="book" src="~/Bookimage/@(item.Title.Replace(" ","-")).jpg" />
+						</div>
+						<br>
+						<div class="col-8">
+							<div class="grid-container">
+							<div class="row"><h2>@item.Title</h2></div>
+							<div class="row"><h2>@item.Author</h2></div>
+							<div class="row"><h6>@item.Description</h6></div>
+							<div class="row"><h4>@item.Price$</h4></div>
+							<div class="row ">
+								<a class="buttonempty button5  centeredbutton" href="@Url.Action("AddToCart" , "Books" , new {Id = item.Id})">ADD TO CART</a>
+							</div>
+							</div>							
+						</div>
+				    </div>
+					
+				
+			}
+			@if(counter == 1)
+			{
+					<div class="col-6">
+						<div class="col-4">
+							<img class="book" src="~/Bookimage/@(item.Title.Replace(" ","-")).jpg" />
+						</div>
+						<br>
+						<div class="col-8">
+							<div class="grid-container">
+							<div class="row"><h2>@item.Title</h2></div>
+							<div class="row"><h2>@item.Author</h2></div>
+							<div class="row"><h6>@item.Description</h6></div>
+							<div class="row"><h4>@item.Price$</h4></div>
+							<div class="row ">
+								<a class="buttonempty button5  centeredbutton" href="@Url.Action("AddToCart" , "Books" , new {Id = item.Id})">ADD TO CART</a>
+							</div>
+							</div>							
+						</div>
+				    </div>
+
+			}
+			counter++;
+			if(counter == 2)
+			{
+				@:</div>
+				<hr style="height:1px;background-color:black;" />
+				counter = 0;
+			}
+		}
+
+
+
+	</div>
+</div>
+
+
+

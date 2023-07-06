@@ -1,0 +1,349 @@
+﻿@using BookStoreMVCC.Controllers;
+@{
+    
+}
+
+
+<div class="margincon2 marginzero">
+    <html>
+    <title>W3.CSS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        .mySlides {
+            display: none
+        }
+    </style>
+    <body>
+
+
+        <div class="w3-content" style="max-width:100%">
+            <img class="mySlides imageleft " src="~/Images/test2.jpg" style="width:100%; height:400px;">
+            <img class="mySlides" src="~/Images/car.jpg" style="width:100%; height:400px;">
+            <img class="mySlides" src="~/Images/pic3.jpg" style="width:100%; height:400px;">
+        </div>
+
+        <div class="w3-center">
+            <div class="w3-section">
+                <a2 onclick="plusDivs(-1)" class="previous round">&#8249;</a2>
+                <a2 onclick="plusDivs(1)" class="next round">&#8250;</a2>
+            </div>
+        </div>
+
+
+        <script>
+            var slideIndex = 1;
+            showDivs(slideIndex);
+
+            function plusDivs(n) {
+                showDivs(slideIndex += n);
+            }
+
+            function currentDiv(n) {
+                showDivs(slideIndex = n);
+            }
+
+            function showDivs(n) {
+                var i;
+                var x = document.getElementsByClassName("mySlides");
+                var dots = document.getElementsByClassName("demo");
+                if (n > x.length) { slideIndex = 1 }
+                if (n < 1) { slideIndex = x.length }
+                for (i = 0; i < x.length; i++) {
+                    x[i].style.display = "none";
+                }
+                for (i = 0; i < dots.length; i++) {
+                    dots[i].className = dots[i].className.replace(" w3-red", "");
+                }
+                x[slideIndex - 1].style.display = "block";
+                dots[slideIndex - 1].className += " w3-red";
+            }
+        </script>
+
+    </body>
+</html>
+
+</div>
+
+
+
+
+
+<div class="container margincon">
+    <div class="row">
+        <h1 class="texthead">Shop By Categories</h1>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col ">
+                            <a href="@Url.Action("SortCategory","Category" , new{CategoryName = "Fiction"})">
+                                <img src="~/Images/Fiction.jpg" alt="fiction" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">Fiction</h4>
+                        </div>
+                        <div class="col ">
+                            <a href="@Url.Action("SortCategory","Category",new {CategoryName = "Non-fiction"})">
+                                <img src="~/Images/Non-Fiction.jpeg" alt="Non-fiction" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">Non-fiction</h4>
+                        </div>
+                        <div class="col ">
+                            <a href="@Url.Action("SortCategory" , "Category" , new {CategoryName = "Mystery"})">
+                                <img src="~/Images/mystrey.jpg" alt="Mystrey" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">Mystery</h4>
+                        </div>
+                        <div class="col">
+                            <a href="@Url.Action("SortCategory" , "Category" , new {CategoryName = "Romance"})">
+                                <img src="~/Images/romance.jpg" alt="fiction" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">Romance</h4>
+                        </div>
+                        <div class="col">
+                            <a href="@Url.Action("SortCategory" , "Category" ,new {CategoryName = "Young Adult"})">
+                                <img src="~/Images/young adult.jpg" alt="Mystrey" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">Young adult</h4>
+                        </div>
+                        <div class="col">
+                            <a href="@Url.Action("SortCategory" , "Category" , new {CategoryName = "Self-help"})">
+                                <img src="~/Images/self help.jpg" alt="Mystrey" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">Self-help	</h4>
+                        </div>
+                        <div class="col">
+                            <a href="@Url.Action("SortCategory" , "Category" , new {CategoryName = "Self-help"})">
+                                <img src="~/Images/football1.jpg" alt="Mystrey" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">FootBall</h4>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col ">
+                            <a href="@Url.Action("SortCategory" , "Category" , new {CategoryName = "Science fiction"})">
+                                <img src="~/Images/sience fiction.jpg" alt="Non-fiction" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">Science-fic</h4>
+                        </div>
+                        <div class="col">
+                            <a href="@Url.Action("SortCategory" , "Category" , new {CategoryName = "Fantasy"})">
+                                <img src="~/Images/fantasy.jpg" alt="Mystrey" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">Fantasy</h4>
+                        </div>
+                        <div class="col">
+                            <a href="@Url.Action("SortCategory" , "Category" , new {CategoryName = "Biography"})">
+                                <img src="~/Images/biography.jpeg" alt="fiction" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">Biography</h4>
+                        </div>
+                        <div class="col">
+                            <a href="@Url.Action("SortCategory" , "Category" , new {CategoryName = "History"})">
+                                <img src="~/Images/history.jpg" alt="Non-fiction" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">History</h4>
+                        </div>
+                        <div class="col">
+                            <a href="@Url.Action("SortCategory" , "Category" , new {CategoryName = "Thriller"})">
+                                <img src="~/Images/thriller.jpg" alt="fiction" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">Thriller</h4>
+                        </div>
+                        <div class="col">
+                            <a href="@Url.Action("SortCategory" , "Category" , new {CategoryName = "Poetry"})">
+                                <img src="~/Images/poetry.jpg" alt="Non-fiction" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">Poetry</h4>
+                        </div>
+                        <div class="col">
+                            <a href="@Url.Action("SortCategory" , "Category" , new {CategoryName = "Self-help"})">
+                                <img src="~/Images/newbas.jpg" alt="Mystrey" class="imagesize" />
+                            </a>
+                            <h4 class="textunderimage">BasketBall</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<br />
+<div class="container margincon">
+    <div class="row">
+        <h1 class="texthead">This Week's Highlight</h1>
+        <div class="col-12">
+            <div class="row">
+                <div class="col-6 ">
+                    <div class="row">
+                        <div class="col-12 ">
+                            <img class="twoimages "  src="~/Images/car.jpg" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12 centerdiv">
+                            <button class="buttonempty button5" onclick="AddToCart">BOOK TICKETS NOW</button>
+                        </div>
+                    </div>  
+                </div>
+
+
+                <div class="col-6">
+                    <div class="row">
+                        <div class="col-12">
+                            <img class="twoimages" src="~/Images/anime.jpg" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12 centerdiv">
+                            <button class="buttonempty button5">SHOP ANIME </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container margincon">
+    <div class="row">
+        <div class="col-12">
+            <h1 class="mb-5">Book of the day</h1>
+            <hr style="height:1px;background-color:black; width:340px"/>
+            <div class="row">
+                <div class="col-4">
+                    <img src="~/Bookimage/The-Kite-Runner.jpg" class="book" />
+                </div>
+                <div class="col-8 mt-4">
+                    <h3>
+                        The kite runner
+                        by khaled husseini
+                    </h3>
+                    <hr style="height: 1px; background-color: black;">
+
+                    <br />
+                    <h5>
+                        An emotionally powerful story set against the backdrop of Afghanistan's tumultuous history, exploring themes of friendship, betrayal, redemption, and the enduring power of love.
+                    </h5>
+                    <div class="row">
+                        <div class="col-4">
+                            <button class="buttonempty button5" style="margin-top:50px;">ADD TO CART NOW </button>
+
+                        </div>
+                        <div class="col-8">
+                            <div class="row">
+                                <div class="col-2">
+                                    <img class="logoimage2" src="~/Images/Gpritiranjan-Simple-Christmas-Gift.512.png" style="margin-top:50px;margin-left:40px;" />
+                                </div>
+                                <div class="col-10">
+                                    <h5 style="margin-top:50px;margin-right:70px;color:lightblue;">Special surprise when ordering the book</h5>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>      
+    </div>
+</div>
+
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <h1 class="texthead">Best Sellers Of The Mounth</h1>
+            <div class="row">
+
+                <div class="col colbackground">
+                    <div class="row ">
+                        <img src="~/Bookimage/Happy-Place.jpg" class="smallbook"/>
+                        <h5 class="textunderimage2">HAPPY PLACE</h5>
+                        <hr class="black-line" />
+						<h5 class="margin1">20$</h5>
+                        <a class="buttonempty button6  centeredbutton" href="@Url.Action("AddToCart" , "Books" , new {Id = 22})">ADD</a>
+
+                    </div>
+                </div>
+
+                <div class="col colbackground">
+                    <div class="row">
+                        <img src="~/Bookimage/The-Lord-OF-The-Rings.jpg" class="smallbook"/>
+                        <h5 class="textunderimage2">THE LORD OF THE RINGS</h5>
+                        <hr class="black-line-mid" />
+                            <h5>18$</h5>
+                        <a class="buttonempty button6  centeredbutton" href="@Url.Action("AddToCart" , "Books" , new {Id = 23})">ADD</a>
+
+                    </div>
+                </div>
+
+                <div class="col colbackground">
+                    <div class="row">
+                        <img src="~/Bookimage/Lessons-In-Chemistry.jpg" class="smallbook"/>
+                        <h5 class="textunderimage2">LESSONS IN CHEMISTRY</h5>
+                        <hr class="black-line" />
+                        <h5>15$</h5>
+                        <a class="buttonempty button6  centeredbutton" href="@Url.Action("AddToCart" , "Books" , new {Id = 24})">ADD</a>
+                    </div>
+                </div>
+
+                <div class="col colbackground">
+                    <div class="row">
+                        <img src="~/Bookimage/Harry-Potter.jpg" class="smallbook"/>
+                        <h5 class="textunderimage2">HARRY POTTER</h5>
+                        <hr class="black-line-mid2" />
+                            <h5 class="margin2">8$</h5>
+                        <a class="buttonempty button6  centeredbutton" href="@Url.Action("AddToCart" , "Books" , new {Id = 25})">ADD</a>
+
+                    </div>
+                </div>
+                <div class="col colbackground">
+                    <div class="row">
+                        <img src="~/Bookimage/Rich-Dad-Poor-Dad.png" class="smallbook" />
+                        <h5 class="textunderimage2">RICH DAD POOR DAD</h5>
+                        <hr class="black-line-longer" />
+                            <h5 class="margin2">18$</h5>
+                        <a class="buttonempty button6  centeredbutton" href="@Url.Action("AddToCart" , "Books" , new {Id = 26})">ADD</a>
+
+                    </div>
+                </div>
+               
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+

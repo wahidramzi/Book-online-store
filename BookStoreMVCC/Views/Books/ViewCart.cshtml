@@ -1,0 +1,79 @@
+﻿@model List<Book>
+<script src="https://js.stripe.com/v3/"></script>
+
+
+@{
+
+	
+
+}
+<div class="row centeralign">
+	<div class="col">
+	</div>
+	<div class="col">
+		<h4>Title</h4>
+	</div>
+	<div class="col">
+		<h4>Price</h4>
+	</div>
+	<div class="col">
+		<h4>Quantity</h4>
+	</div>
+	<div class="col">
+		<h4>Total</h4>
+	</div>
+
+</div>
+<hr style="height:1px;background-color:black;" />
+
+@foreach ( var item in Model){
+
+
+	<div class="row centeralign">
+		<div class="col">
+			<img src="~/Bookimage/@(item.Title.Replace(" ","-")).jpg" class="cartbook" />
+		</div>
+		<div class="col">
+			<h4>@item.Title</h4>
+		</div>
+		<div class="col">
+			<h4>@item.Price$</h4>
+		</div>
+		<div class="col">
+			<h4>@item.Quantity</h4>
+		</div>
+		<div class="col">
+			<h4>@item.Total$</h4>
+			<a href="@Url.Action("DeleteItem" , "Books" , new { Id = item.Id})">Delete</a>
+		</div>
+
+	</div>
+	var fulltotal = item.Price++;
+
+<hr style="height:1px;background-color:black;" />
+}
+
+<div class="container">
+	<div class="row">
+		<div class="col-12 d-flex justify-content-end">
+			<h3>Total Price : @ViewBag.fulltotal$</h3>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row" style="position: relative; margin-top: 20px;">
+			<div class="col-5 d-flex align-items-center">
+				<a class="buttonempty button5">register </a>
+			</div>
+			<div class="col-2 d-flex align-items-center justify-content-center position-relative">
+				<div style="position: absolute; top: 50%; left: 0; right: 0; border-top: 1px solid black; z-index: -1;"></div>
+				<h4 style="background-color: white; padding: 0 10px; z-index: 1;">or</h4>
+			</div>
+			<div class="col-5 d-flex align-items-center justify-content-end">
+				<form method="post" action="/create-checkout-session">
+					<button class="buttonempty button5" type="submit">CheckOut As A Guest</button>
+				</form>
+			</div>
+		</div>
+	</div>
+
+</div>

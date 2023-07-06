@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BookStoreMVCC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BookStoreMVCC.styles.css" asp-append-version="true" />
+</head>
+<body >
+    <header>
+        
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white  marginzero">
+            <div class="container-fluid marginzero ">
+                <div class="row marginzero" style="align-content:center;">
+
+
+                    <div class="row centeralign " style="height:70px;">
+                        <div class="col-2 ">
+                            <a class="navbar-brand  " asp-area="" asp-controller="Home" asp-action="Index">
+                                <img src="~/Images/Screenshot 2023-07-06 145041.png" class="logoimage3" style="margin-bottom:10px;"/>
+                            </a>
+                            <button class="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                                    aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                        </div>
+                        <div class="col-8 " style="margin-bottom:17px;">
+                            <h1>WAHID BOOK STORE</h1>
+                        </div>
+                        <div class="col-2 " style="margin-bottom:25px;">
+                            <partial name="_LoginPartial" />
+                        </div>
+                    </div>
+                   
+
+                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between  centeralign shadow backgroundmain" style="height:45px;">
+                        <ul class="navbar-nav flex-grow-1 centeralign shadow backgroundmain">
+                            <div class="nav-item menu col backgroundmain">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Books" asp-action="Index">Books</a>
+                            </div>
+                            <div class="nav-item menu col backgroundmain">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="AppRole" asp-action="Index">Roles</a>
+                            </div>
+                            <div class="nav-item menu col backgroundmain">
+                                <a class="nav-link text-dark">Deals</a>
+                            </div>
+                            <div class="nav-item menu col backgroundmain">
+                                <a class="nav-link text-dark">New Arrivals</a>
+                            </div>
+                            <div class="nav-item menu col backgroundmain">
+                                <a class="nav-link text-dark">Toys</a>
+                            </div>
+                            <div class="nav-item menu col backgroundmain">
+                                <a class="nav-link text-dark">Fashion</a>
+                            </div>
+                            <div class="nav-item menu col backgroundmain">
+                                <a class="nav-link text-dark">Music</a>
+                            </div>
+                            <div class="nav-item  col backgroundmain">
+                                <div class="row centeralign backgroundmain">
+                                    <div class="col-10 menu backgroundmain">
+                                        <a class="nav-link text-dark">Gift Ideas</a>
+                                    </div>
+                                    <div class="col-2 backgroundmain">
+                                        <a href="@Url.Action("ViewCart","Books")">
+                                            <img class="logoimage2" src="~/Images/shopping-cart.png" />
+
+                                        </a>
+
+
+                                    </div>
+                                </div>
+                            </div>                        
+                        </ul>
+                    </div>
+
+
+
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container"  >
+        <main role="main" class="pb-5">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+
+
+</body>
+</html>

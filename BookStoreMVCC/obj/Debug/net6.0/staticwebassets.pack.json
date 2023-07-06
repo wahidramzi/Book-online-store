@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookStoreMVCC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookStoreMVCC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Bookimage\\1984.jpg",
+      "PackagePath": "staticwebassets\\Bookimage\\1984.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Bookimage\\Happy-Place.jpg",
+      "PackagePath": "staticwebassets\\Bookimage\\Happy-Place.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Bookimage\\Harry-Potter.jpg",
+      "PackagePath": "staticwebassets\\Bookimage\\Harry-Potter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Bookimage\\Lessons-In-Chemistry.jpg",
+      "PackagePath": "staticwebassets\\Bookimage\\Lessons-In-Chemistry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Bookimage\\Pride-and-Prejudice.jpg",
+      "PackagePath": "staticwebassets\\Bookimage\\Pride-and-Prejudice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Bookimage\\Rich-Dad-Poor-Dad.png",
+      "PackagePath": "staticwebassets\\Bookimage\\Rich-Dad-Poor-Dad.png"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Bookimage\\The-Alchemist.jpg",
+      "PackagePath": "staticwebassets\\Bookimage\\The-Alchemist.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Bookimage\\The-Catcher-in-the-Rye.jpg",
+      "PackagePath": "staticwebassets\\Bookimage\\The-Catcher-in-the-Rye.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Bookimage\\The-Great-Gatsby.jpg",
+      "PackagePath": "staticwebassets\\Bookimage\\The-Great-Gatsby.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Bookimage\\The-Kite-Runner.jpg",
+      "PackagePath": "staticwebassets\\Bookimage\\The-Kite-Runner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Bookimage\\The-Lord-OF-The-Rings.jpg",
+      "PackagePath": "staticwebassets\\Bookimage\\The-Lord-OF-The-Rings.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Bookimage\\To-Kill-a-Mockingbird.jpg",
+      "PackagePath": "staticwebassets\\Bookimage\\To-Kill-a-Mockingbird.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\DALL·E 2023-06-30 21.36.31 - cool book store desgin for  a book store website.png",
+      "PackagePath": "staticwebassets\\Images\\DALL·E 2023-06-30 21.36.31 - cool book store desgin for  a book store website.png"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\DALL·E 2023-06-30 22.04.02 - a balconi with view on the sea in far place with all the mountains and trees around.png",
+      "PackagePath": "staticwebassets\\Images\\DALL·E 2023-06-30 22.04.02 - a balconi with view on the sea in far place with all the mountains and trees around.png"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\DALL·E 2023-06-30 22.15.17 -  a 3d render of book in a dark blue background , digital art.png",
+      "PackagePath": "staticwebassets\\Images\\DALL·E 2023-06-30 22.15.17 -  a 3d render of book in a dark blue background , digital art.png"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\DALL·E 2023-06-30 22.18.34 - an expressive oil painting of a book with highlight on it.png",
+      "PackagePath": "staticwebassets\\Images\\DALL·E 2023-06-30 22.18.34 - an expressive oil painting of a book with highlight on it.png"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\Dtafalonso-Yosemite-Flat-Music.512.png",
+      "PackagePath": "staticwebassets\\Images\\Dtafalonso-Yosemite-Flat-Music.512.png"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\Fiction.jpg",
+      "PackagePath": "staticwebassets\\Images\\Fiction.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\Gpritiranjan-Simple-Christmas-Gift.512.png",
+      "PackagePath": "staticwebassets\\Images\\Gpritiranjan-Simple-Christmas-Gift.512.png"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\Non-Fiction.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Non-Fiction.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\Screenshot 2023-07-06 145041.png",
+      "PackagePath": "staticwebassets\\Images\\Screenshot 2023-07-06 145041.png"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\account.png",
+      "PackagePath": "staticwebassets\\Images\\account.png"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\anime.jpg",
+      "PackagePath": "staticwebassets\\Images\\anime.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\basket.jpg",
+      "PackagePath": "staticwebassets\\Images\\basket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\bastketball.jpeg",
+      "PackagePath": "staticwebassets\\Images\\bastketball.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\biography.jpeg",
+      "PackagePath": "staticwebassets\\Images\\biography.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\car.jpg",
+      "PackagePath": "staticwebassets\\Images\\car.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\fantasy.jpg",
+      "PackagePath": "staticwebassets\\Images\\fantasy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\flash sale - Made with PosterMyWall.jpg",
+      "PackagePath": "staticwebassets\\Images\\flash sale - Made with PosterMyWall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\football.png",
+      "PackagePath": "staticwebassets\\Images\\football.png"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\football1.jpg",
+      "PackagePath": "staticwebassets\\Images\\football1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\history.jpg",
+      "PackagePath": "staticwebassets\\Images\\history.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\logo3.jpg",
+      "PackagePath": "staticwebassets\\Images\\logo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\logo4.png",
+      "PackagePath": "staticwebassets\\Images\\logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\mystrey.jpg",
+      "PackagePath": "staticwebassets\\Images\\mystrey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\newbas.jpg",
+      "PackagePath": "staticwebassets\\Images\\newbas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\personal-assistant.png",
+      "PackagePath": "staticwebassets\\Images\\personal-assistant.png"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\pic3.jpg",
+      "PackagePath": "staticwebassets\\Images\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\poetry.jpg",
+      "PackagePath": "staticwebassets\\Images\\poetry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\romance.jpg",
+      "PackagePath": "staticwebassets\\Images\\romance.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\self help.jpg",
+      "PackagePath": "staticwebassets\\Images\\self help.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\shopping-cart.png",
+      "PackagePath": "staticwebassets\\Images\\shopping-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\sience fiction.jpg",
+      "PackagePath": "staticwebassets\\Images\\sience fiction.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\test2.jpg",
+      "PackagePath": "staticwebassets\\Images\\test2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\thriller.jpg",
+      "PackagePath": "staticwebassets\\Images\\thriller.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\vegeta-artwork.jpg",
+      "PackagePath": "staticwebassets\\Images\\vegeta-artwork.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\Images\\young adult.jpg",
+      "PackagePath": "staticwebassets\\Images\\young adult.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hussein Ramzi\\source\\repos\\BookStoreMVCC\\BookStoreMVCC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BookStoreMVCC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BookStoreMVCC.props",
+      "PackagePath": "build\\BookStoreMVCC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStoreMVCC.props",
+      "PackagePath": "buildMultiTargeting\\BookStoreMVCC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BookStoreMVCC.props",
+      "PackagePath": "buildTransitive\\BookStoreMVCC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
